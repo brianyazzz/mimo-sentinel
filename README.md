@@ -46,6 +46,8 @@ logs / metrics / deploy notes
 - Parse raw logs, JSONL events, or mixed incident notes.
 - Detect error bursts, deploy correlation, and service-level blast radius.
 - Produce ranked hypotheses with supporting evidence.
+- Build evidence-bound MiMo prompts with strict JSON schema hints.
+- Validate hypothesis citations so unknown event IDs are rejected.
 - Generate safe runbook-style remediation plans.
 - Block risky commands unless explicitly approved.
 - Run fully offline with a deterministic heuristic engine, or connect to MiMo API for deeper reasoning.
