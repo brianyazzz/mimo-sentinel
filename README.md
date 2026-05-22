@@ -1,5 +1,7 @@
 # MiMo Sentinel
 
+![MiMo Sentinel hero banner](docs/mimo-sentinel-banner.png)
+
 > Autonomous AI incident commander powered by Xiaomi MiMo for log intelligence, root-cause analysis, and safe remediation planning.
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
